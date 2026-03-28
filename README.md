@@ -36,10 +36,12 @@ My key contributions to this project included both front-end development and bac
 - Assisted in validating security configurations including IAM least-privilege access and role-based permissions.
 
 Serverless Architecture of "GP Booking System"
-<img width="537" height="308" alt="Screenshot 2026-03-28 at 12 11 40 PM" src="https://github.com/user-attachments/assets/bb517256-8e73-40d1-950b-b0774e646f01" />
+<img width="525" height="307" alt="Screenshot 2026-03-28 at 9 00 17 PM" src="https://github.com/user-attachments/assets/add4b8c8-6c7c-4e3d-a7a9-352440a7db30" />
 
 Waf Rules
-<img width="620" height="260" alt="Screenshot 2026-03-28 at 12 12 47 PM" src="https://github.com/user-attachments/assets/5ede2935-ae35-4a1e-ac27-322dcb0147a6" />
+<img width="608" height="265" alt="Screenshot 2026-03-28 at 9 01 11 PM" src="https://github.com/user-attachments/assets/15b20368-38fa-4a71-ade2-7527643442b3" />
+
 
 Website SSL Report & Code Vulnerability Check
-<img width="620" height="260" alt="Screenshot 2026-03-28 at 12 13 16 PM" src="https://github.com/user-attachments/assets/1d0d25b1-3ba4-4e67-b112-4012004ab786" />
+<img width="627" height="267" alt="Screenshot 2026-03-28 at 9 01 41 PM" src="https://github.com/user-attachments/assets/3b6f985c-78c0-4a15-aaa6-7afbb76746d7" />
+
