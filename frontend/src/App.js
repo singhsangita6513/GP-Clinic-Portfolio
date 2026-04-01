@@ -1,9 +1,9 @@
 import React from "react";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
-import ProfileScreen from "./Inayah/ProfileScreen";
-import HomePageServices from "./Inayah/HomePageServices";
+import ProfileScreen from "./Sangeeta/ProfileScreen";
+import HomePageServices from "./Sangeeta/HomePageServices";
 import HomePage from "./yu/homepage";
-import AppointmentForm from "./Inayah/AppointmentForm";
+import AppointmentForm from "./Sangeeta/AppointmentForm";
 
 function App() {
   return (
